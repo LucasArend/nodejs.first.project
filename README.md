@@ -1,2 +1,2 @@
 # nodejs.first.project
- First project made in nodejs
+ First project in nodejs
